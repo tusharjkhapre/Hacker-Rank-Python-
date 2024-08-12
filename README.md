@@ -42,7 +42,7 @@ This repository is organized by days, with each folder containing the solutions 
 
 ## 📸 Screenshots
 
-![HackerRank Dashboard](./images/hackerrank-dashboard.png)
+![HackerRank Dashboard](./images/hacker Rank Dashboard.png) 
 
 *Above: My progress on HackerRank's Python track.*
 
