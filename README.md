@@ -1,14 +1,8 @@
-Here’s an enhanced README file with a "Contribute" section included:
-
----
-
 # 🚀 My HackerRank Python Quiz Journey 🐍
 
 ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 Welcome to my journey through the HackerRank Python challenges! I'm solving Python problems every day to sharpen my skills and prepare for future challenges.
-
----
 
 ## 📈 Progress Tracker
 
@@ -23,15 +17,11 @@ I'm committed to solving a few questions every day. Here's a quick look at my pr
 
 *This table will be updated as I progress through the challenges.*
 
----
-
 ## 🧠 Why I’m Doing This
 
 - **Skill Improvement:** Constant practice to refine my Python coding abilities.
 - **Interview Prep:** Getting ready for technical interviews by tackling common problems.
 - **Fun:** Enjoying the process of solving interesting and challenging problems.
-
----
 
 ## 📂 Repository Structure
 
@@ -44,23 +34,17 @@ This repository is organized by days, with each folder containing the solutions 
 
 *Links to each day's solutions will be provided as I upload them.*
 
----
-
 ## 🎯 Goals
 
 - **Consistency:** Solving at least one problem every day.
 - **Learning:** Exploring new Python concepts and libraries.
 - **Sharing:** Documenting my solutions to help others.
 
----
-
 ## 📸 Screenshots
 
-<!---->
+![HackerRank Dashboard](./images/hackerrank-dashboard.png)
 
 *Above: My progress on HackerRank's Python track.*
-
----
 
 ## 🤝 Contribute
 
@@ -79,20 +63,12 @@ To contribute, follow these steps:
 
 I appreciate any contributions and feedback!
 
----
-
 ## 📫 Contact Me
 
 - **Email:** [khapretushar789@gmail.com](mailto:khapretushar789@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](#)
+- **LinkedIn:** [Tushar Khapre](https://www.linkedin.com/in/tushar-khapre-973b03225)
 - **Twitter:** [@YourTwitterHandle](#)
 
 Feel free to reach out if you’re also working on similar challenges or if you have any tips or suggestions! Let's learn and grow together!
 
----
-
 ### ⭐️ Please give this repo a star if you find it useful!
-
----
-
-This README file now includes a "Contribute" section to encourage and guide contributions from others, making your repository more interactive and collaborative.
