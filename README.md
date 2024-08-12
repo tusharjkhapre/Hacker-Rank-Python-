@@ -56,7 +56,7 @@ This repository is organized by days, with each folder containing the solutions 
 
 ## 📸 Screenshots
 
-<!-- Replace with the relative path to your image -->
+<!---->
 
 *Above: My progress on HackerRank's Python track.*
 
