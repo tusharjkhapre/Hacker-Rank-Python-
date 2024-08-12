@@ -42,7 +42,8 @@ This repository is organized by days, with each folder containing the solutions 
 
 ## 📸 Screenshots
 
-![HackerRank Dashboard](./images/hacker Rank Dashboard.png) 
+![HackerRank Dashboard](https://github.com/tusharjkhapre/Hacker-Rank-Python-/blob/main/images/hacker%20Rank%20Dashboard.png)
+**Profile:**[Hacker Rank](https://www.hackerrank.com/profile/mypc162000)
 
 *Above: My progress on HackerRank's Python track.*
 
