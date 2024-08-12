@@ -16,7 +16,7 @@ I'm committed to solving a few questions every day. Here's a quick look at my pr
 
 | Day  | Challenges Solved |
 |------|-------------------|
-| Day 1| [Link to Day 1 solutions]() |
+| Day 1| [Link to Day 1 solutions](Prepare) |
 | Day 2| [Link to Day 2 solutions](#) |
 | Day 3| [Link to Day 3 solutions](#) |
 | ...  | ...               |
